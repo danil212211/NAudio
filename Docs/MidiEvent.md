@@ -49,7 +49,7 @@ The `TempoEvent` exposes both the raw `MicrosecondsPerQuarterNote` value from th
 - ChannelAfterTouchEvent
 - PatchChangeEvent
 - TrackSequenceNumberEvent
-- RawMetaevent
+- RawMetaEvent
 - SmpteOffsetEvent
 - SequeceSpecificEvent
 - PitchWheelChangeEvent
